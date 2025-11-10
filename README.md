@@ -16,7 +16,9 @@ This is a responsive web application built using **HTML**, **CSS**, and **JavaSc
 ResponsiveTask/
 ├── index.html
 ├── style.css
-├── script.js
+├── style.scss
+├── index.js
+├── products.js
 └── README.md
 ```
 
