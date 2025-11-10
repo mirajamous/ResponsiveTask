@@ -18,7 +18,7 @@ ResponsiveTask/
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## 📋 How to Run Locally
 1. Clone this repository  
