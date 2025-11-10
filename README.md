@@ -8,8 +8,8 @@ This is a responsive web application built using **HTML**, **CSS**, and **JavaSc
 - Interactive navigation and elements
 - Built with HTML5, CSS3, and vanilla JS
 
-## 🖥️ Live Demo
-👉 [View it on GitHub Pages](https://mirajamous.github.io/ResponsiveTask/)
+<!-- ## 🖥️ Live Demo
+👉 [View it on GitHub Pages](https://mirajamous.github.io/ResponsiveTask/) -->
 
 ## 📂 Folder Structure
 ```
