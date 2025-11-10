@@ -1,6 +1,6 @@
 # Responsive Webpage – ITG Training
 
-This is a responsive web application built using **HTML**, **CSS**, and **JavaScript** as part of my ITG training.
+This is a responsive web application built using **HTML**, **CSS**,**scss**, and **JavaScript** as part of my ITG training.
 
 ## 🧠 Features
 - Fully responsive design
