@@ -22,5 +22,13 @@ ResponsiveTask/
 1. Clone this repository  
    ```bash
    git clone https://github.com/mirajamous/ResponsiveTask.git
-   
+
 2. Open index.html in your browser.
+
+
+## Preview
+
+![Home Page](img/Webpage1.png.png)
+![Home Page](img/Webpage4.png.png)
+![Home Page](img/Webpage2.png.png)
+![Home Page](img/Webpage3.png.png)
