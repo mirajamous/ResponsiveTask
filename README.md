@@ -29,6 +29,6 @@ ResponsiveTask/
 ## Preview
 
 ![Home Page](img/Webpage1.png)
-![Home Page](img/Webpage4.png)
-![Home Page](img/Webpage2.png)
-![Home Page](img/Webpage3.png)
+![Home Page](img/webpage4.png)
+![Home Page](img/webpage2.png)
+![Home Page](img/webpage3.png)
