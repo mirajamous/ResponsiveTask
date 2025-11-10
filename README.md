@@ -12,11 +12,13 @@ This is a responsive web application built using **HTML**, **CSS**, and **JavaSc
 👉 [View it on GitHub Pages](https://mirajamous.github.io/ResponsiveTask/)
 
 ## 📂 Folder Structure
+```
 ResponsiveTask/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
 
 ## 📋 How to Run Locally
 1. Clone this repository  
